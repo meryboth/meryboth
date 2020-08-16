@@ -33,7 +33,7 @@
 
 ### 💬 Connect with me
 
-[<img align="left" alt="Linkedin" width="22px" src="assets/linkedin.svg">](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
+[<img align="left" alt="Linkedin" width="22px" src="assets/linkedin.svg">](https://www.linkedin.com/in/marilyn-botheatoz/)
 [<img align="left" alt="Linkedin" width="22px" src="assets/devdotto.svg">](https://dev.to/meryboth/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/meryboth)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/meryboth)
