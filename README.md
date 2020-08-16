@@ -1,4 +1,4 @@
-![Hello World](assets/hello-world.jpg "Hello world")
+<img src="https://i.ibb.co/FsPP5MT/hello-world.jpg" alt="hello world" />
 
 # Hi there, I'm Marilyn! 👋
 
