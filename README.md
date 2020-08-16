@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/FsPP5MT/hello-world.jpg" alt="hello world" />
+<img src="https://i.ibb.co/0BwwCSb/hello-world.jpg" alt="hello world" />
 
 # Hi there, I'm Marilyn! 👋
 
