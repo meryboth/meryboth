@@ -9,7 +9,7 @@
 - 🔭 I’m currently mentoring on [Coderhouse](https://www.coderhouse.com/)!
 - 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Complete the 100 Days of Coding Challenge 🏅
+- 🥅 2021 Goals: Complete the 100 Days of Coding Challenge 🏅
 - ⚡ Fun fact: I am also an architect 🏠
 
 <br>
