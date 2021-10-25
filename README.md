@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/0BwwCSb/hello-world.jpg" alt="hello world" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cYDD7bs7--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" alt="hello world" width="1252" />
 
 <br>
 
@@ -6,8 +6,8 @@
 
 ## I'm a Front-End Developer with passion for design
 
-- 🔭 I’m currently mentoring on [Coderhouse](https://www.coderhouse.com/)!
-- 🌱 I’m currently learning Javascript and React
+- 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
+- 🌱 I’m currently learning Full Stack Development on [UTN](https://utn.edu.ar/es/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Complete the 100 Days of Coding Challenge 🏅
 - ⚡ Fun fact: I am also an architect 🏠
@@ -16,7 +16,7 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/visualstudiocode.svg">
+<img align="left" alt="Visual Studio Code" width="24px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Html5" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/html5.svg">
 <img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/css3.svg">
 <img align="left" alt="SASS" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sass.svg">
@@ -33,11 +33,8 @@
 
 ### 💬 Connect with me
 
-[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/linkedin.svg">](https://www.linkedin.com/in/marilyn-botheatoz/)
-[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg">](https://dev.to/meryboth/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/meryboth)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/meryboth)
-[<img align="left" alt="behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />](https://www.behance.net/marilynbotheatoz)
-[<img align="left" alt="marilyn botheatoz dev website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://meryboth.github.io/marilynb/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/meryboth)](https://twitter.com/meryboth)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilyn-botheatoz/)](https://www.linkedin.com/in/marilyn-botheatoz/)
+
 
 <br>
