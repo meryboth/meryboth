@@ -16,16 +16,16 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="24px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Html5" width="24px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="24px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="SASS" width="24px" src="https://icongr.am/devicon/sass-original.svg?size=39&color=b30000"/>
-<img align="left" alt="Javascript" width="24px" src="https://icongr.am/devicon/javascript-original.svg?size=39&color=b30000"/>
-<img align="left" alt="Bootstrap" width="24px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="Git" width="24px" src="https://icongr.am/devicon/git-original.svg?size=39&color=b30000">
-<img align="left" alt="Figma" width="24px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img align="left" alt="Adobe Illustrator" width="24px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-<img align="left" alt="Adobe Photoshop" width="24px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Html5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="SASS" width="40px" src="https://icongr.am/devicon/sass-original.svg?size=39&color=b30000"/>
+<img align="left" alt="Javascript" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=39&color=b30000"/>
+<img align="left" alt="Bootstrap" width="40px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original.svg?size=39&color=b30000">
+<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+<img align="left" alt="Adobe Photoshop" width="40px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
 
 <br>
 <br>
