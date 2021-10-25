@@ -1,7 +1,3 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cYDD7bs7--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" alt="hello world" width="1252" />
-
-<br>
-
 # Hi there, I'm Marilyn! 👋
 
 ## I'm a Front-End Developer with passion for design
