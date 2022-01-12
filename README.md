@@ -3,9 +3,10 @@
 ## I'm a Front-End Developer with passion for design
 
 - 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
+- 💓 React Js is my best friend 
 - 🌱 I’m currently learning Full Stack Development on [UTN](https://utn.edu.ar/es/)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Complete the 100 Days of Coding Challenge 🏅
+- 🥅 2022 Goals: To keep learning and developing awesome projects 🏅
 - ⚡ Fun fact: I am also an architect 🏠
 
 <br>
