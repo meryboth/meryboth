@@ -3,8 +3,8 @@
 ## I'm a Front-End Developer with passion for design
 
 - 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
-- 💓 React Js is my best friend 
-- 🌱 I’m currently learning Full Stack Development on [UTN](https://utn.edu.ar/es/)
+- 💓 React Js and React Native are my main tools of work
+- 🌱 I’m currently working as a frontend developer on [Flock IT](https://www.flockit.com.ar/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To keep learning and developing awesome projects 🏅
 - ⚡ Fun fact: I am also an architect 🏠
