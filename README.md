@@ -1,10 +1,10 @@
 # Hi there, I'm Marilyn! 👋
 
-## I'm a Front-End Developer with passion for design
+## I'm a Developer with passion for design
 
 - 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
 - 💓 React Js and React Native are my main tools of work
-- 🌱 I’m currently working as a frontend developer on [Flock IT](https://www.flockit.com.ar/)
+- 🌱 I’m currently working as a R&D Analyst on [Flock IT](https://www.flockit.com.ar/)
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am also an architect 🏠
 
@@ -18,9 +18,6 @@
 <img align="left" alt="SASS" width="40px" src="https://icongr.am/devicon/sass-original.svg?size=39&color=b30000"/>
 <img align="left" alt="Javascript" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=39&color=b30000"/>
 <img align="left" alt="React Js" width="40px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor"/>
-<img align="left" alt="Bootstrap" width="40px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="Laravel" width="40px"  src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=40&color=d70f0f"/>
-<img align="left" alt="PHP" width="40px"  src="https://icongr.am/devicon/php-original.svg?size=40&color=d70f0f"/>
 <img align="left" alt="MySQL" width="40px"  src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=d70f0f"/>
 <img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original.svg?size=39&color=b30000">
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
