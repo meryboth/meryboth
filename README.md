@@ -1,6 +1,6 @@
 # Hi there, I'm Marilyn! 👋
 
-## I'm a Developer with passion for design
+## I'm a Design Engineer with passion for UI and Performance!
 
 - 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
 - 💓 React Js and React Native are my main tools of work
