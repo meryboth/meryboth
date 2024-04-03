@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Javascript and Web Development mentor on [Coderhouse](https://www.coderhouse.com/)!
 - 💓 React Js and React Native are my main tools of work
-- 🌱 I’m currently working as a R&D Analyst on [Flock IT](https://www.flockit.com.ar/)
+- 🌱 I’m currently working as a Design Engineer on [Flock IT](https://www.flockit.com.ar/)
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am also an architect 🏠
 
