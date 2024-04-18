@@ -23,7 +23,6 @@
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 <img align="left" alt="Adobe Photoshop" width="40px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
-<img align="left" alt="Adobe Photoshop" width="40px" src="<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 
 <br>
