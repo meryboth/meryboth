@@ -24,6 +24,9 @@
 <img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 <img align="left" alt="Adobe Photoshop" width="40px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
 
+<br>
+<br>
+
 ### Favorite Tools to Work With
 
 #### Frontend:
