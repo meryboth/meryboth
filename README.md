@@ -1,53 +1,58 @@
-# Hi there, I'm Marilyn! 👋
+# Hi there, I'm Marilyn Botheatoz 👋
 
-## I'm a Design Engineer with passion for UI and Design Systems!
+## 🧠 I+D Lead & AI Engineer
 
-- 💓 React Js and React Native are my main tools of work
-- 🌱 I’m currently working as a Design Engineer on [Flock IT](https://www.flockit.com.ar/)
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I am also an architect 🏠
+I’m passionate about building **AI-driven products** that blend **technology, design, and intelligent systems**.  
+At [Flock IT](https://www.flockit.com.ar/), I lead research and development initiatives that connect **conversational AI**, **multi-agent architectures**, and **real-time experiences** — from digital avatars to enterprise-grade AI assistants.
+
+### 🌎 About me
+- 🧩 **R&D Lead at Flock IT** — driving innovation through applied AI.
+- 🗣️ **AI Engineer** — specializing in conversational agents, multi-agent systems, and orchestration frameworks.
+- 🧱 **Architect & Designer** — with a strong background in UI, UX, and system design.
+- 🔬 Researching **agentic AI** and the **automation of the software development lifecycle**.
+- ☁️ Experienced with **AWS**, **LangGraph**, **CrewAI**, **ElevenLabs**, and **Next.js**.
+- ⚡ Fun fact: I still sketch and prototype like it’s the first day of design school 🎨
 
 <br>
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Html5" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="SASS" width="40px" src="https://icongr.am/devicon/sass-original.svg?size=39&color=b30000"/>
-<img align="left" alt="Javascript" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=39&color=b30000"/>
-<img align="left" alt="React Js" width="40px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor"/>
-<img align="left" alt="MySQL" width="40px"  src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=d70f0f"/>
-<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original.svg?size=39&color=b30000">
+<img align="left" alt="Python" width="40px" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor"/>
+<img align="left" alt="JavaScript" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
+<img align="left" alt="Node.js" width="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor"/>
+<img align="left" alt="React" width="40px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor"/>
+<img align="left" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
+<img align="left" alt="PostgreSQL" width="40px" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=currentColor"/>
+<img align="left" alt="AWS" width="40px" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<img align="left" alt="LangChain" width="40px" src="https://img.icons8.com/?size=512&id=QLa4FSXkCBfT&format=png"/>
+<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-<img align="left" alt="Adobe Photoshop" width="40px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
+<img align="left" alt="Blender" width="40px" src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 
 <br>
 <br>
 
-### Favorite Tools to Work With
+### 🧩 Favorite Areas
 
-#### Frontend:
-- **Next.js:** React framework for building web applications.
-- **Astro:** Modern, fast framework for building static and dynamic websites.
-- **React Native:** JavaScript framework for building native mobile applications.
+#### 🧠 Agentic AI
+- **Conversational Agents** with memory, reasoning, and emotion.
+- **Multi-Agent Systems** for orchestration and task automation.
+- **Voice & Avatar Integration** using **ElevenLabs**, **Simli**, and **Unity**.
 
-#### Backend:
-- **Node.js:** JavaScript runtime environment for server-side execution.
-- **Express.js:** Fast, minimalist web framework for Node.js.
+#### 💻 Engineering & Cloud
+- **Next.js / Node.js** full-stack applications.
+- **AWS Infrastructure** — Amplify, Lightsail, Lambda, Aurora Serverless.
+- **PostgreSQL + Prisma** for scalable data models.
 
-#### Database:
-- **MongoDB Atlas:** Cloud-based, fully managed MongoDB database service.
-- **Mongoose:** MongoDB object modeling library for Node.js.
+#### 🎨 Design & Research
+- Building **AI interfaces** that communicate naturally.
+- Exploring **Human-in-the-Loop** patterns and **R&D workflows** for AI products.
 
-<br>
 <br>
 
 ### 💬 Connect with me
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/meryboth)](https://twitter.com/meryboth)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilyn-botheatoz/)](https://www.linkedin.com/in/marilyn-botheatoz/)
-
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/meryboth)](https://twitter.com/meryboth)
 
 <br>
