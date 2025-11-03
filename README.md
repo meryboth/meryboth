@@ -17,18 +17,19 @@ At [Flock IT](https://www.flockit.com.ar/), I lead research and development init
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="40px" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor"/>
-<img align="left" alt="JavaScript" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
-<img align="left" alt="Node.js" width="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor"/>
-<img align="left" alt="React" width="40px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor"/>
-<img align="left" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
-<img align="left" alt="PostgreSQL" width="40px" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=currentColor"/>
-<img align="left" alt="AWS" width="40px" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-<img align="left" alt="LangChain" width="40px" src="https://img.icons8.com/?size=512&id=QLa4FSXkCBfT&format=png"/>
-<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"/>
-<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img align="left" alt="Blender" width="40px" src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:8px; padding:4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchainjs/main/docs/static/img/favicon.ico" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+</p>
 <br>
 <br>
 
